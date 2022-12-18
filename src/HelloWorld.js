@@ -9,6 +9,7 @@ import {
 } from './util/interact.js';
 
 import alchemylogo from './alchemylogo.svg';
+import './index.css';
 
 const HelloWorld = () => {
   //state variables
